@@ -1,2 +1,5 @@
 #addition
 C=A+B
+
+#substraction
+C=A-B
