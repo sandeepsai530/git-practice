@@ -3,3 +3,6 @@ C=A+B
 
 #substraction
 C=A-B
+
+#multipication
+C=A*B
